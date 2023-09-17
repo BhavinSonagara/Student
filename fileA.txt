@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 
 feature 1 with 2 bugs feature 2 wip
 
 
 
 
-=======
-feature 1 with 2 bugs
->>>>>>> 2d7b8e5 (add feature1)
